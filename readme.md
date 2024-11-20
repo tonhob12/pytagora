@@ -1,0 +1,1 @@
+Hello! with this .py file, just execute this with python interpreter (i prefer execute thiss with vs code) and test this.
